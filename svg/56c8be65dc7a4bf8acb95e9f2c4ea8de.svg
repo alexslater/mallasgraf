@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="606.778mm" height="568.678mm"
+ viewBox="0 0 1720 1612"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1720,0 L1720,1612 L0,1612 L0,0"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1720,0 L1720,1612 L0,1612 L0,0"/>
+</g>
+
+<g fill="#616671" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,35 L279,35 C284.52,35 289,39.48 289,45 L289,105 C289,110.52 284.52,115 279,115 L99,115 C93.48,115 89,110.52 89,105 L89,45 C89,39.48 93.48,35 99,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,35 L483,35 C488.52,35 493,39.48 493,45 L493,105 C493,110.52 488.52,115 483,115 L303,115 C297.48,115 293,110.52 293,105 L293,45 C293,39.48 297.48,35 303,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,35 L687,35 C692.52,35 697,39.48 697,45 L697,105 C697,110.52 692.52,115 687,115 L507,115 C501.48,115 497,110.52 497,105 L497,45 C497,39.48 501.48,35 507,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,35 L891,35 C896.52,35 901,39.48 901,45 L901,105 C901,110.52 896.52,115 891,115 L711,115 C705.48,115 701,110.52 701,105 L701,45 C701,39.48 705.48,35 711,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,35 L1095,35 C1100.52,35 1105,39.48 1105,45 L1105,105 C1105,110.52 1100.52,115 1095,115 L915,115 C909.48,115 905,110.52 905,105 L905,45 C905,39.48 909.48,35 915,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,35 L1299,35 C1304.52,35 1309,39.48 1309,45 L1309,105 C1309,110.52 1304.52,115 1299,115 L1119,115 C1113.48,115 1109,110.52 1109,105 L1109,45 C1109,39.48 1113.48,35 1119,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,35 L1503,35 C1508.52,35 1513,39.48 1513,45 L1513,105 C1513,110.52 1508.52,115 1503,115 L1323,115 C1317.48,115 1313,110.52 1313,105 L1313,45 C1313,39.48 1317.48,35 1323,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,35 L1707,35 C1712.52,35 1717,39.48 1717,45 L1717,105 C1717,110.52 1712.52,115 1707,115 L1527,115 C1521.48,115 1517,110.52 1517,105 L1517,45 C1517,39.48 1521.48,35 1527,35 "/>
+</g>
+
+<g fill="#5dbcb3" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,119 L75,119 C80.52,119 85,123.48 85,129 L85,609 C85,614.52 80.52,619 75,619 L21,619 C15.48,619 11,614.52 11,609 L11,129 C11,123.48 15.48,119 21,119 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,121 L279,121 C284.52,121 289,125.48 289,131 L289,251 C289,256.52 284.52,261 279,261 L99,261 C93.48,261 89,256.52 89,251 L89,131 C89,125.48 93.48,121 99,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,121 L483,121 C488.52,121 493,125.48 493,131 L493,251 C493,256.52 488.52,261 483,261 L303,261 C297.48,261 293,256.52 293,251 L293,131 C293,125.48 297.48,121 303,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,121 L687,121 C692.52,121 697,125.48 697,131 L697,251 C697,256.52 692.52,261 687,261 L507,261 C501.48,261 497,256.52 497,251 L497,131 C497,125.48 501.48,121 507,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,121 L891,121 C896.52,121 901,125.48 901,131 L901,251 C901,256.52 896.52,261 891,261 L711,261 C705.48,261 701,256.52 701,251 L701,131 C701,125.48 705.48,121 711,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,121 L1095,121 C1100.52,121 1105,125.48 1105,131 L1105,251 C1105,256.52 1100.52,261 1095,261 L915,261 C909.48,261 905,256.52 905,251 L905,131 C905,125.48 909.48,121 915,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,121 L1299,121 C1304.52,121 1309,125.48 1309,131 L1309,251 C1309,256.52 1304.52,261 1299,261 L1119,261 C1113.48,261 1109,256.52 1109,251 L1109,131 C1109,125.48 1113.48,121 1119,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,121 L1503,121 C1508.52,121 1513,125.48 1513,131 L1513,251 C1513,256.52 1508.52,261 1503,261 L1323,261 C1317.48,261 1313,256.52 1313,251 L1313,131 C1313,125.48 1317.48,121 1323,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,121 L1707,121 C1712.52,121 1717,125.48 1717,131 L1717,251 C1717,256.52 1712.52,261 1707,261 L1527,261 C1521.48,261 1517,256.52 1517,251 L1517,131 C1517,125.48 1521.48,121 1527,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,265 L279,265 C284.52,265 289,269.48 289,275 L289,395 C289,400.52 284.52,405 279,405 L99,405 C93.48,405 89,400.52 89,395 L89,275 C89,269.48 93.48,265 99,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,265 L483,265 C488.52,265 493,269.48 493,275 L493,395 C493,400.52 488.52,405 483,405 L303,405 C297.48,405 293,400.52 293,395 L293,275 C293,269.48 297.48,265 303,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,265 L687,265 C692.52,265 697,269.48 697,275 L697,395 C697,400.52 692.52,405 687,405 L507,405 C501.48,405 497,400.52 497,395 L497,275 C497,269.48 501.48,265 507,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,265 L891,265 C896.52,265 901,269.48 901,275 L901,395 C901,400.52 896.52,405 891,405 L711,405 C705.48,405 701,400.52 701,395 L701,275 C701,269.48 705.48,265 711,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,265 L1095,265 C1100.52,265 1105,269.48 1105,275 L1105,395 C1105,400.52 1100.52,405 1095,405 L915,405 C909.48,405 905,400.52 905,395 L905,275 C905,269.48 909.48,265 915,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,265 L1299,265 C1304.52,265 1309,269.48 1309,275 L1309,395 C1309,400.52 1304.52,405 1299,405 L1119,405 C1113.48,405 1109,400.52 1109,395 L1109,275 C1109,269.48 1113.48,265 1119,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,265 L1503,265 C1508.52,265 1513,269.48 1513,275 L1513,395 C1513,400.52 1508.52,405 1503,405 L1323,405 C1317.48,405 1313,400.52 1313,395 L1313,275 C1313,269.48 1317.48,265 1323,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,265 L1707,265 C1712.52,265 1717,269.48 1717,275 L1717,395 C1717,400.52 1712.52,405 1707,405 L1527,405 C1521.48,405 1517,400.52 1517,395 L1517,275 C1517,269.48 1521.48,265 1527,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,444 L687,444 C692.52,444 697,448.48 697,454 L697,574 C697,579.52 692.52,584 687,584 L507,584 C501.48,584 497,579.52 497,574 L497,454 C497,448.48 501.48,444 507,444 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,444 L891,444 C896.52,444 901,448.48 901,454 L901,574 C901,579.52 896.52,584 891,584 L711,584 C705.48,584 701,579.52 701,574 L701,454 C701,448.48 705.48,444 711,444 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,444 L1095,444 C1100.52,444 1105,448.48 1105,454 L1105,574 C1105,579.52 1100.52,584 1095,584 L915,584 C909.48,584 905,579.52 905,574 L905,454 C905,448.48 909.48,444 915,444 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,444 L1299,444 C1304.52,444 1309,448.48 1309,454 L1309,574 C1309,579.52 1304.52,584 1299,584 L1119,584 C1113.48,584 1109,579.52 1109,574 L1109,454 C1109,448.48 1113.48,444 1119,444 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,444 L1503,444 C1508.52,444 1513,448.48 1513,454 L1513,574 C1513,579.52 1508.52,584 1503,584 L1323,584 C1317.48,584 1313,579.52 1313,574 L1313,454 C1313,448.48 1317.48,444 1323,444 "/>
+</g>
+
+<g fill="#e08131" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,623 L75,623 C80.52,623 85,627.48 85,633 L85,1013 C85,1018.52 80.52,1023 75,1023 L21,1023 C15.48,1023 11,1018.52 11,1013 L11,633 C11,627.48 15.48,623 21,623 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,625 L279,625 C284.52,625 289,629.48 289,635 L289,755 C289,760.52 284.52,765 279,765 L99,765 C93.48,765 89,760.52 89,755 L89,635 C89,629.48 93.48,625 99,625 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,625 L483,625 C488.52,625 493,629.48 493,635 L493,755 C493,760.52 488.52,765 483,765 L303,765 C297.48,765 293,760.52 293,755 L293,635 C293,629.48 297.48,625 303,625 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,625 L687,625 C692.52,625 697,629.48 697,635 L697,755 C697,760.52 692.52,765 687,765 L507,765 C501.48,765 497,760.52 497,755 L497,635 C497,629.48 501.48,625 507,625 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,826 L279,826 C284.52,826 289,830.48 289,836 L289,956 C289,961.52 284.52,966 279,966 L99,966 C93.48,966 89,961.52 89,956 L89,836 C89,830.48 93.48,826 99,826 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,826 L483,826 C488.52,826 493,830.48 493,836 L493,956 C493,961.52 488.52,966 483,966 L303,966 C297.48,966 293,961.52 293,956 L293,836 C293,830.48 297.48,826 303,826 "/>
+</g>
+
+<g fill="#972475" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,1164 L75,1164 C80.52,1164 85,1168.48 85,1174 L85,1454 C85,1459.52 80.52,1464 75,1464 L21,1464 C15.48,1464 11,1459.52 11,1454 L11,1174 C11,1168.48 15.48,1164 21,1164 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1029 L483,1029 C488.52,1029 493,1033.48 493,1039 L493,1159 C493,1164.52 488.52,1169 483,1169 L303,1169 C297.48,1169 293,1164.52 293,1159 L293,1039 C293,1033.48 297.48,1029 303,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,1029 L687,1029 C692.52,1029 697,1033.48 697,1039 L697,1159 C697,1164.52 692.52,1169 687,1169 L507,1169 C501.48,1169 497,1164.52 497,1159 L497,1039 C497,1033.48 501.48,1029 507,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,1029 L891,1029 C896.52,1029 901,1033.48 901,1039 L901,1159 C901,1164.52 896.52,1169 891,1169 L711,1169 C705.48,1169 701,1164.52 701,1159 L701,1039 C701,1033.48 705.48,1029 711,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,1029 L1095,1029 C1100.52,1029 1105,1033.48 1105,1039 L1105,1159 C1105,1164.52 1100.52,1169 1095,1169 L915,1169 C909.48,1169 905,1164.52 905,1159 L905,1039 C905,1033.48 909.48,1029 915,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,1029 L1299,1029 C1304.52,1029 1309,1033.48 1309,1039 L1309,1159 C1309,1164.52 1304.52,1169 1299,1169 L1119,1169 C1113.48,1169 1109,1164.52 1109,1159 L1109,1039 C1109,1033.48 1113.48,1029 1119,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,1029 L1503,1029 C1508.52,1029 1513,1033.48 1513,1039 L1513,1159 C1513,1164.52 1508.52,1169 1503,1169 L1323,1169 C1317.48,1169 1313,1164.52 1313,1159 L1313,1039 C1313,1033.48 1317.48,1029 1323,1029 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,1173 L1503,1173 C1508.52,1173 1513,1177.48 1513,1183 L1513,1303 C1513,1308.52 1508.52,1313 1503,1313 L1323,1313 C1317.48,1313 1313,1308.52 1313,1303 L1313,1183 C1313,1177.48 1317.48,1173 1323,1173 "/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="763" y="25" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >CARRERA DE PREGRADO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 7</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 8</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="133" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Específica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Introducción al Deporte</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Colectivo</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Colectivo I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Valoración de la Fuerza</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Sistemas y Análisis</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Biomecánicos</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportes y Contacto con</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >la Naturaleza</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Práctica Deportiva III</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Práctica Deportiva IV</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >(Entornos…)</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Proyecto de Título</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Individual</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Individual</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Colectivo II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Colectivo III</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Actividad Física y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Poblaciones Especiales</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Coaching y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Programación de</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Ejercicio para la Salud</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento y Género</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Inteligencia Artificial y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Tecnología Aplicada al</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="468" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Nutrición Deportiva y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="486" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Bioenergética</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="468" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportes Acuáticos I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="468" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Metodología de la</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="486" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Investigación</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="468" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportes emergentes</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="468" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Gestión y Tecnología</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="486" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Aplicada al Deporte</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="637" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Básica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="649" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Anatomía Funcional y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="667" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Movimiento Humano</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="649" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Biomecánica Deportiva</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="649" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Fisiología del Ejercicio</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="850" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Teoría del Entrenamiento</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="850" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Fisiología</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="1178" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electiva</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificación 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificación 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="1053" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificación 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="1197" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo 4</text>
+</g>
+</g>
+</svg>

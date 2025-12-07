@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1038.58mm" height="862.189mm"
+ viewBox="0 0 2944 2444"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L2944,0 L2944,2444 L0,2444 L0,0"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L2944,0 L2944,2444 L0,2444 L0,0"/>
+</g>
+
+<g fill="#616671" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,35 L279,35 C284.52,35 289,39.48 289,45 L289,105 C289,110.52 284.52,115 279,115 L99,115 C93.48,115 89,110.52 89,105 L89,45 C89,39.48 93.48,35 99,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,35 L483,35 C488.52,35 493,39.48 493,45 L493,105 C493,110.52 488.52,115 483,115 L303,115 C297.48,115 293,110.52 293,105 L293,45 C293,39.48 297.48,35 303,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,35 L687,35 C692.52,35 697,39.48 697,45 L697,105 C697,110.52 692.52,115 687,115 L507,115 C501.48,115 497,110.52 497,105 L497,45 C497,39.48 501.48,35 507,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,35 L891,35 C896.52,35 901,39.48 901,45 L901,105 C901,110.52 896.52,115 891,115 L711,115 C705.48,115 701,110.52 701,105 L701,45 C701,39.48 705.48,35 711,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,35 L1095,35 C1100.52,35 1105,39.48 1105,45 L1105,105 C1105,110.52 1100.52,115 1095,115 L915,115 C909.48,115 905,110.52 905,105 L905,45 C905,39.48 909.48,35 915,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,35 L1299,35 C1304.52,35 1309,39.48 1309,45 L1309,105 C1309,110.52 1304.52,115 1299,115 L1119,115 C1113.48,115 1109,110.52 1109,105 L1109,45 C1109,39.48 1113.48,35 1119,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,35 L1503,35 C1508.52,35 1513,39.48 1513,45 L1513,105 C1513,110.52 1508.52,115 1503,115 L1323,115 C1317.48,115 1313,110.52 1313,105 L1313,45 C1313,39.48 1317.48,35 1323,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,35 L1707,35 C1712.52,35 1717,39.48 1717,45 L1717,105 C1717,110.52 1712.52,115 1707,115 L1527,115 C1521.48,115 1517,110.52 1517,105 L1517,45 C1517,39.48 1521.48,35 1527,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,35 L1911,35 C1916.52,35 1921,39.48 1921,45 L1921,105 C1921,110.52 1916.52,115 1911,115 L1731,115 C1725.48,115 1721,110.52 1721,105 L1721,45 C1721,39.48 1725.48,35 1731,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,35 L2115,35 C2120.52,35 2125,39.48 2125,45 L2125,105 C2125,110.52 2120.52,115 2115,115 L1935,115 C1929.48,115 1925,110.52 1925,105 L1925,45 C1925,39.48 1929.48,35 1935,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2139,35 L2319,35 C2324.52,35 2329,39.48 2329,45 L2329,105 C2329,110.52 2324.52,115 2319,115 L2139,115 C2133.48,115 2129,110.52 2129,105 L2129,45 C2129,39.48 2133.48,35 2139,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2343,35 L2523,35 C2528.52,35 2533,39.48 2533,45 L2533,105 C2533,110.52 2528.52,115 2523,115 L2343,115 C2337.48,115 2333,110.52 2333,105 L2333,45 C2333,39.48 2337.48,35 2343,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2547,35 L2727,35 C2732.52,35 2737,39.48 2737,45 L2737,105 C2737,110.52 2732.52,115 2727,115 L2547,115 C2541.48,115 2537,110.52 2537,105 L2537,45 C2537,39.48 2541.48,35 2547,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2751,35 L2931,35 C2936.52,35 2941,39.48 2941,45 L2941,105 C2941,110.52 2936.52,115 2931,115 L2751,115 C2745.48,115 2741,110.52 2741,105 L2741,45 C2741,39.48 2745.48,35 2751,35 "/>
+</g>
+
+<g fill="#5dbcb3" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,119 L75,119 C80.52,119 85,123.48 85,129 L85,909 C85,914.52 80.52,919 75,919 L21,919 C15.48,919 11,914.52 11,909 L11,129 C11,123.48 15.48,119 21,119 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,121 L279,121 C284.52,121 289,125.48 289,131 L289,251 C289,256.52 284.52,261 279,261 L99,261 C93.48,261 89,256.52 89,251 L89,131 C89,125.48 93.48,121 99,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,121 L687,121 C692.52,121 697,125.48 697,131 L697,251 C697,256.52 692.52,261 687,261 L507,261 C501.48,261 497,256.52 497,251 L497,131 C497,125.48 501.48,121 507,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,121 L891,121 C896.52,121 901,125.48 901,131 L901,251 C901,256.52 896.52,261 891,261 L711,261 C705.48,261 701,256.52 701,251 L701,131 C701,125.48 705.48,121 711,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,121 L1095,121 C1100.52,121 1105,125.48 1105,131 L1105,251 C1105,256.52 1100.52,261 1095,261 L915,261 C909.48,261 905,256.52 905,251 L905,131 C905,125.48 909.48,121 915,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,121 L1299,121 C1304.52,121 1309,125.48 1309,131 L1309,251 C1309,256.52 1304.52,261 1299,261 L1119,261 C1113.48,261 1109,256.52 1109,251 L1109,131 C1109,125.48 1113.48,121 1119,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,121 L1503,121 C1508.52,121 1513,125.48 1513,131 L1513,251 C1513,256.52 1508.52,261 1503,261 L1323,261 C1317.48,261 1313,256.52 1313,251 L1313,131 C1313,125.48 1317.48,121 1323,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,121 L1707,121 C1712.52,121 1717,125.48 1717,131 L1717,251 C1717,256.52 1712.52,261 1707,261 L1527,261 C1521.48,261 1517,256.52 1517,251 L1517,131 C1517,125.48 1521.48,121 1527,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,121 L1911,121 C1916.52,121 1921,125.48 1921,131 L1921,251 C1921,256.52 1916.52,261 1911,261 L1731,261 C1725.48,261 1721,256.52 1721,251 L1721,131 C1721,125.48 1725.48,121 1731,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,121 L2115,121 C2120.52,121 2125,125.48 2125,131 L2125,251 C2125,256.52 2120.52,261 2115,261 L1935,261 C1929.48,261 1925,256.52 1925,251 L1925,131 C1925,125.48 1929.48,121 1935,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2139,121 L2319,121 C2324.52,121 2329,125.48 2329,131 L2329,251 C2329,256.52 2324.52,261 2319,261 L2139,261 C2133.48,261 2129,256.52 2129,251 L2129,131 C2129,125.48 2133.48,121 2139,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2547,121 L2727,121 C2732.52,121 2737,125.48 2737,131 L2737,251 C2737,256.52 2732.52,261 2727,261 L2547,261 C2541.48,261 2537,256.52 2537,251 L2537,131 C2537,125.48 2541.48,121 2547,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2751,121 L2931,121 C2936.52,121 2941,125.48 2941,131 L2941,251 C2941,256.52 2936.52,261 2931,261 L2751,261 C2745.48,261 2741,256.52 2741,251 L2741,131 C2741,125.48 2745.48,121 2751,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,265 L687,265 C692.52,265 697,269.48 697,275 L697,395 C697,400.52 692.52,405 687,405 L507,405 C501.48,405 497,400.52 497,395 L497,275 C497,269.48 501.48,265 507,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,265 L891,265 C896.52,265 901,269.48 901,275 L901,395 C901,400.52 896.52,405 891,405 L711,405 C705.48,405 701,400.52 701,395 L701,275 C701,269.48 705.48,265 711,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,265 L1095,265 C1100.52,265 1105,269.48 1105,275 L1105,395 C1105,400.52 1100.52,405 1095,405 L915,405 C909.48,405 905,400.52 905,395 L905,275 C905,269.48 909.48,265 915,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,265 L1299,265 C1304.52,265 1309,269.48 1309,275 L1309,395 C1309,400.52 1304.52,405 1299,405 L1119,405 C1113.48,405 1109,400.52 1109,395 L1109,275 C1109,269.48 1113.48,265 1119,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,265 L1503,265 C1508.52,265 1513,269.48 1513,275 L1513,395 C1513,400.52 1508.52,405 1503,405 L1323,405 C1317.48,405 1313,400.52 1313,395 L1313,275 C1313,269.48 1317.48,265 1323,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,265 L1707,265 C1712.52,265 1717,269.48 1717,275 L1717,395 C1717,400.52 1712.52,405 1707,405 L1527,405 C1521.48,405 1517,400.52 1517,395 L1517,275 C1517,269.48 1521.48,265 1527,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,265 L1911,265 C1916.52,265 1921,269.48 1921,275 L1921,395 C1921,400.52 1916.52,405 1911,405 L1731,405 C1725.48,405 1721,400.52 1721,395 L1721,275 C1721,269.48 1725.48,265 1731,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,265 L2115,265 C2120.52,265 2125,269.48 2125,275 L2125,395 C2125,400.52 2120.52,405 2115,405 L1935,405 C1929.48,405 1925,400.52 1925,395 L1925,275 C1925,269.48 1929.48,265 1935,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2139,265 L2319,265 C2324.52,265 2329,269.48 2329,275 L2329,395 C2329,400.52 2324.52,405 2319,405 L2139,405 C2133.48,405 2129,400.52 2129,395 L2129,275 C2129,269.48 2133.48,265 2139,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2547,265 L2727,265 C2732.52,265 2737,269.48 2737,275 L2737,395 C2737,400.52 2732.52,405 2727,405 L2547,405 C2541.48,405 2537,400.52 2537,395 L2537,275 C2537,269.48 2541.48,265 2547,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2751,265 L2931,265 C2936.52,265 2941,269.48 2941,275 L2941,395 C2941,400.52 2936.52,405 2931,405 L2751,405 C2745.48,405 2741,400.52 2741,395 L2741,275 C2741,269.48 2745.48,265 2751,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,409 L891,409 C896.52,409 901,413.48 901,419 L901,539 C901,544.52 896.52,549 891,549 L711,549 C705.48,549 701,544.52 701,539 L701,419 C701,413.48 705.48,409 711,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,409 L1095,409 C1100.52,409 1105,413.48 1105,419 L1105,539 C1105,544.52 1100.52,549 1095,549 L915,549 C909.48,549 905,544.52 905,539 L905,419 C905,413.48 909.48,409 915,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,409 L1299,409 C1304.52,409 1309,413.48 1309,419 L1309,539 C1309,544.52 1304.52,549 1299,549 L1119,549 C1113.48,549 1109,544.52 1109,539 L1109,419 C1109,413.48 1113.48,409 1119,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,409 L1503,409 C1508.52,409 1513,413.48 1513,419 L1513,539 C1513,544.52 1508.52,549 1503,549 L1323,549 C1317.48,549 1313,544.52 1313,539 L1313,419 C1313,413.48 1317.48,409 1323,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,409 L1707,409 C1712.52,409 1717,413.48 1717,419 L1717,539 C1717,544.52 1712.52,549 1707,549 L1527,549 C1521.48,549 1517,544.52 1517,539 L1517,419 C1517,413.48 1521.48,409 1527,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,409 L1911,409 C1916.52,409 1921,413.48 1921,419 L1921,539 C1921,544.52 1916.52,549 1911,549 L1731,549 C1725.48,549 1721,544.52 1721,539 L1721,419 C1721,413.48 1725.48,409 1731,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,409 L2115,409 C2120.52,409 2125,413.48 2125,419 L2125,539 C2125,544.52 2120.52,549 2115,549 L1935,549 C1929.48,549 1925,544.52 1925,539 L1925,419 C1925,413.48 1929.48,409 1935,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2139,409 L2319,409 C2324.52,409 2329,413.48 2329,419 L2329,539 C2329,544.52 2324.52,549 2319,549 L2139,549 C2133.48,549 2129,544.52 2129,539 L2129,419 C2129,413.48 2133.48,409 2139,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2547,409 L2727,409 C2732.52,409 2737,413.48 2737,419 L2737,539 C2737,544.52 2732.52,549 2727,549 L2547,549 C2541.48,549 2537,544.52 2537,539 L2537,419 C2537,413.48 2541.48,409 2547,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2751,409 L2931,409 C2936.52,409 2941,413.48 2941,419 L2941,539 C2941,544.52 2936.52,549 2931,549 L2751,549 C2745.48,549 2741,544.52 2741,539 L2741,419 C2741,413.48 2745.48,409 2751,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,666 L891,666 C896.52,666 901,670.48 901,676 L901,796 C901,801.52 896.52,806 891,806 L711,806 C705.48,806 701,801.52 701,796 L701,676 C701,670.48 705.48,666 711,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,666 L1095,666 C1100.52,666 1105,670.48 1105,676 L1105,796 C1105,801.52 1100.52,806 1095,806 L915,806 C909.48,806 905,801.52 905,796 L905,676 C905,670.48 909.48,666 915,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,666 L1299,666 C1304.52,666 1309,670.48 1309,676 L1309,796 C1309,801.52 1304.52,806 1299,806 L1119,806 C1113.48,806 1109,801.52 1109,796 L1109,676 C1109,670.48 1113.48,666 1119,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,666 L1707,666 C1712.52,666 1717,670.48 1717,676 L1717,796 C1717,801.52 1712.52,806 1707,806 L1527,806 C1521.48,806 1517,801.52 1517,796 L1517,676 C1517,670.48 1521.48,666 1527,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,666 L1911,666 C1916.52,666 1921,670.48 1921,676 L1921,796 C1921,801.52 1916.52,806 1911,806 L1731,806 C1725.48,806 1721,801.52 1721,796 L1721,676 C1721,670.48 1725.48,666 1731,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,666 L2115,666 C2120.52,666 2125,670.48 2125,676 L2125,796 C2125,801.52 2120.52,806 2115,806 L1935,806 C1929.48,806 1925,801.52 1925,796 L1925,676 C1925,670.48 1929.48,666 1935,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2139,666 L2319,666 C2324.52,666 2329,670.48 2329,676 L2329,796 C2329,801.52 2324.52,806 2319,806 L2139,806 C2133.48,806 2129,801.52 2129,796 L2129,676 C2129,670.48 2133.48,666 2139,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2547,666 L2727,666 C2732.52,666 2737,670.48 2737,676 L2737,796 C2737,801.52 2732.52,806 2727,806 L2547,806 C2541.48,806 2537,801.52 2537,796 L2537,676 C2537,670.48 2541.48,666 2547,666 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M2751,666 L2931,666 C2936.52,666 2941,670.48 2941,676 L2941,796 C2941,801.52 2936.52,806 2931,806 L2751,806 C2745.48,806 2741,801.52 2741,796 L2741,676 C2741,670.48 2745.48,666 2751,666 "/>
+</g>
+
+<g fill="#e08131" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,923 L75,923 C80.52,923 85,927.48 85,933 L85,1413 C85,1418.52 80.52,1423 75,1423 L21,1423 C15.48,1423 11,1418.52 11,1413 L11,933 C11,927.48 15.48,923 21,923 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,925 L279,925 C284.52,925 289,929.48 289,935 L289,1055 C289,1060.52 284.52,1065 279,1065 L99,1065 C93.48,1065 89,1060.52 89,1055 L89,935 C89,929.48 93.48,925 99,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,925 L483,925 C488.52,925 493,929.48 493,935 L493,1055 C493,1060.52 488.52,1065 483,1065 L303,1065 C297.48,1065 293,1060.52 293,1055 L293,935 C293,929.48 297.48,925 303,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,925 L687,925 C692.52,925 697,929.48 697,935 L697,1055 C697,1060.52 692.52,1065 687,1065 L507,1065 C501.48,1065 497,1060.52 497,1055 L497,935 C497,929.48 501.48,925 507,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,925 L891,925 C896.52,925 901,929.48 901,935 L901,1055 C901,1060.52 896.52,1065 891,1065 L711,1065 C705.48,1065 701,1060.52 701,1055 L701,935 C701,929.48 705.48,925 711,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,925 L1503,925 C1508.52,925 1513,929.48 1513,935 L1513,1055 C1513,1060.52 1508.52,1065 1503,1065 L1323,1065 C1317.48,1065 1313,1060.52 1313,1055 L1313,935 C1313,929.48 1317.48,925 1323,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,925 L1707,925 C1712.52,925 1717,929.48 1717,935 L1717,1055 C1717,1060.52 1712.52,1065 1707,1065 L1527,1065 C1521.48,1065 1517,1060.52 1517,1055 L1517,935 C1517,929.48 1521.48,925 1527,925 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,1176 L279,1176 C284.52,1176 289,1180.48 289,1186 L289,1306 C289,1311.52 284.52,1316 279,1316 L99,1316 C93.48,1316 89,1311.52 89,1306 L89,1186 C89,1180.48 93.48,1176 99,1176 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1176 L483,1176 C488.52,1176 493,1180.48 493,1186 L493,1306 C493,1311.52 488.52,1316 483,1316 L303,1316 C297.48,1316 293,1311.52 293,1306 L293,1186 C293,1180.48 297.48,1176 303,1176 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,1176 L687,1176 C692.52,1176 697,1180.48 697,1186 L697,1306 C697,1311.52 692.52,1316 687,1316 L507,1316 C501.48,1316 497,1311.52 497,1306 L497,1186 C497,1180.48 501.48,1176 507,1176 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,1176 L1503,1176 C1508.52,1176 1513,1180.48 1513,1186 L1513,1306 C1513,1311.52 1508.52,1316 1503,1316 L1323,1316 C1317.48,1316 1313,1311.52 1313,1306 L1313,1186 C1313,1180.48 1317.48,1176 1323,1176 "/>
+</g>
+
+<g fill="#972475" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,1780 L75,1780 C80.52,1780 85,1784.48 85,1790 L85,2070 C85,2075.52 80.52,2080 75,2080 L21,2080 C15.48,2080 11,2075.52 11,2070 L11,1790 C11,1784.48 15.48,1780 21,1780 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1429 L483,1429 C488.52,1429 493,1433.48 493,1439 L493,1559 C493,1564.52 488.52,1569 483,1569 L303,1569 C297.48,1569 293,1564.52 293,1559 L293,1439 C293,1433.48 297.48,1429 303,1429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,1429 L687,1429 C692.52,1429 697,1433.48 697,1439 L697,1559 C697,1564.52 692.52,1569 687,1569 L507,1569 C501.48,1569 497,1564.52 497,1559 L497,1439 C497,1433.48 501.48,1429 507,1429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,1429 L891,1429 C896.52,1429 901,1433.48 901,1439 L901,1559 C901,1564.52 896.52,1569 891,1569 L711,1569 C705.48,1569 701,1564.52 701,1559 L701,1439 C701,1433.48 705.48,1429 711,1429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,1429 L1095,1429 C1100.52,1429 1105,1433.48 1105,1439 L1105,1559 C1105,1564.52 1100.52,1569 1095,1569 L915,1569 C909.48,1569 905,1564.52 905,1559 L905,1439 C905,1433.48 909.48,1429 915,1429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,1429 L1299,1429 C1304.52,1429 1309,1433.48 1309,1439 L1309,1559 C1309,1564.52 1304.52,1569 1299,1569 L1119,1569 C1113.48,1569 1109,1564.52 1109,1559 L1109,1439 C1109,1433.48 1113.48,1429 1119,1429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1573 L483,1573 C488.52,1573 493,1577.48 493,1583 L493,1703 C493,1708.52 488.52,1713 483,1713 L303,1713 C297.48,1713 293,1708.52 293,1703 L293,1583 C293,1577.48 297.48,1573 303,1573 "/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1375" y="25" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >CARRERA DE PREGRADO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 7</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 8</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 9</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 10</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 11</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2343" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 12</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 13</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 14</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="133" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Específica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FISIOLOGÍA MÉDICA I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INMUNOLOGÍA E</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INMUNIZACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SALUD BASADA EN LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EVIDENCIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA INTERNA I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA INTERNA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CIRUGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PSIQUIATRÍA INF-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >JUVENIL Y DEL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ADULTO I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA APLICADA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA INTERNA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ATENCIÓN PRIMARIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EXAMEN </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2823" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2850" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRE-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TÍTULO EN OBST. Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GINEC.</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SEMIOLOGÍA I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGENTES</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INFECCIOSOS I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ATENCIÓN PRIMARIA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ALTA PREVALENCIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTEGRADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PATOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MORFOFUNCIONAL II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >NEUROLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TRAUMATOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ONCOLOGÍA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CUIDADOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PALIATIVOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GINECOLOGÍA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >OBSTETRICIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PEDIATRÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CIRUGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EXAMEN </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2823" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2850" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRE-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TÍTULO EN MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INT.</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FISIOLOGÍA MÉDICA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTEGRADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PATOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="469" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MORFOFUNCIONAL I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >NUTRICIÓN CLÍNICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ESPECIALIDADES</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MÉDICAS I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ESPECIALIDADES</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MÉDICAS II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MEDICINA APLICADA I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ESPECIALIDADES</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MÉDICAS III</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PSIQUIATRÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >URGENCIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EXAMEN </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2823" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2850" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRE-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TÍTULO EN CIRUGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SEMIOLOGÍA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGENTES</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INFECCIOSOS II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FARMACOLOGÍA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MÉTODOS DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DIAGNÓSTICO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="726" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CLÍNICO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PEDIATRÍA,</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TRAUMATY CIRUGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="726" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INFANTIL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PSIQUIATRÍA INF-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >JUVENIL Y DEL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="726" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ADULTO II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE SALUD</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2139" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EN PERSONA MAYOR</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTERNADO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >OBSTETRICIA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2547" y="726" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GINECOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EXAMEN </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2823" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2850" y="690" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRE-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="2751" y="708" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TÍTULO EN PEDIATRÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="937" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Básica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PSICOLOGÍA PARA LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="967" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ATENCIÓN EN SALUD</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PSICOLOGÍA EN EL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="967" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CURSO DE LA VIDA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >NEUROCIENCIAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MÉT.INV. EN SALUD Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="967" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BIOESTAD. APLICADA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SALUD PÚBLICA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="967" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EPIDEMIOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="949" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GESTIÓN EN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="967" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SISTEMAS DE SALUD</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="1200" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BIOLOGÍA MOLECULAR</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="1218" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Y GENÉTICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1200" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ANATOMÍA HUMANA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1200" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HISTOEMBRIOLOGÍA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="1200" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BIOÉTICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="1794" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electiva</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 1 MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 2 MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="1453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 3 MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="1453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 4 MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="1453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 5 MEDICINA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1597" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HISTOEMBRIOLOGÍA I</text>
+</g>
+</g>
+</svg>

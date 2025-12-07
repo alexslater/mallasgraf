@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Cargar XLSX de malla curricular</h2>
+    <div class="container">
+        <a href={{ url_for('renderizamalla', filename=filename, nombre_carrera=nombre_carrera) }} class="btn btn-primary">Generar gráfica</a>
+        <a href={{ url_for('index') }} class="btn btn-secondary">Cancelar</a>
+    </div>
+    <p>La tabla de asignaturas cargadas es:</p>
+    <div class="container-lg tabla-scrolleable" id="lista-asignaturas-cargadas">
+        <table class="table" data-toggle="table" id="tabla-asignaturas">
+          <thead id="tabla-asignaturas-header">
+            <th scope="col">#</th>
+            <th scope="col">Nivel</th>
+            <th scope="col">Área</th>
+            <th scope="col">Nombre asignatura</th>
+            <th scope="col">Valor SCT</th>
+            <th scope="col">Prerrequisitos</th>
+            <th scope="col">Acción</th>
+          </thead>
+          <tbody id="tabla-asignaturas-body">
+            {% for asignatura in listaasignaturas %}
+            <tr>
+                <td>{{ asignatura["ID Asignatura"] }}</td>
+                <td>{{ asignatura["Nivel"] }}</td>
+                <td>{{ asignatura["Area"] }}</td>
+                <td>{{ asignatura["Asignatura"] }}</td>
+                <td>{{ asignatura["SCT"] }}</td>
+                <td>{{ asignatura["Prerrequisitos"] }}</td>
+                <td scope="col">
+                  <a href="{{ url_for('editarAsignatura', filename=filename, codigo_asignatura=asignatura['ID Asignatura']) }}" class="btn btn-primary">Editar</a>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+{% endblock %}

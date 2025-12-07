@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Cargar XLS de Malla Curricular</h2>
+ 
+    <form method="POST" enctype="multipart/form-data">
+        {{ template_form.hidden_tag() }}
+        <p>{{ template_form.nombre_carrera.label }} {{ template_form.nombre_carrera(class_="form-control") }}</p>
+        <p>{{ template_form.archivo_xlsx.label }} {{ template_form.archivo_xlsx(class_="form-control") }}</p>
+        <p>{{ template_form.submit(class_="btn btn-primary") }}</p>
+    </form>
+
+{% endblock %}

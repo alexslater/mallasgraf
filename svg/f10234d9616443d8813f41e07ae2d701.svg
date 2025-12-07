@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="606.778mm" height="447.322mm"
+ viewBox="0 0 1720 1268"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1720,0 L1720,1268 L0,1268 L0,0"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L1720,0 L1720,1268 L0,1268 L0,0"/>
+</g>
+
+<g fill="#616671" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,35 L279,35 C284.52,35 289,39.48 289,45 L289,105 C289,110.52 284.52,115 279,115 L99,115 C93.48,115 89,110.52 89,105 L89,45 C89,39.48 93.48,35 99,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,35 L483,35 C488.52,35 493,39.48 493,45 L493,105 C493,110.52 488.52,115 483,115 L303,115 C297.48,115 293,110.52 293,105 L293,45 C293,39.48 297.48,35 303,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,35 L687,35 C692.52,35 697,39.48 697,45 L697,105 C697,110.52 692.52,115 687,115 L507,115 C501.48,115 497,110.52 497,105 L497,45 C497,39.48 501.48,35 507,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,35 L891,35 C896.52,35 901,39.48 901,45 L901,105 C901,110.52 896.52,115 891,115 L711,115 C705.48,115 701,110.52 701,105 L701,45 C701,39.48 705.48,35 711,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,35 L1095,35 C1100.52,35 1105,39.48 1105,45 L1105,105 C1105,110.52 1100.52,115 1095,115 L915,115 C909.48,115 905,110.52 905,105 L905,45 C905,39.48 909.48,35 915,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,35 L1299,35 C1304.52,35 1309,39.48 1309,45 L1309,105 C1309,110.52 1304.52,115 1299,115 L1119,115 C1113.48,115 1109,110.52 1109,105 L1109,45 C1109,39.48 1113.48,35 1119,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,35 L1503,35 C1508.52,35 1513,39.48 1513,45 L1513,105 C1513,110.52 1508.52,115 1503,115 L1323,115 C1317.48,115 1313,110.52 1313,105 L1313,45 C1313,39.48 1317.48,35 1323,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,35 L1707,35 C1712.52,35 1717,39.48 1717,45 L1717,105 C1717,110.52 1712.52,115 1707,115 L1527,115 C1521.48,115 1517,110.52 1517,105 L1517,45 C1517,39.48 1521.48,35 1527,35 "/>
+</g>
+
+<g fill="#5dbcb3" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,119 L75,119 C80.52,119 85,123.48 85,129 L85,509 C85,514.52 80.52,519 75,519 L21,519 C15.48,519 11,514.52 11,509 L11,129 C11,123.48 15.48,119 21,119 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,121 L279,121 C284.52,121 289,125.48 289,131 L289,251 C289,256.52 284.52,261 279,261 L99,261 C93.48,261 89,256.52 89,251 L89,131 C89,125.48 93.48,121 99,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,121 L483,121 C488.52,121 493,125.48 493,131 L493,251 C493,256.52 488.52,261 483,261 L303,261 C297.48,261 293,256.52 293,251 L293,131 C293,125.48 297.48,121 303,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,121 L687,121 C692.52,121 697,125.48 697,131 L697,251 C697,256.52 692.52,261 687,261 L507,261 C501.48,261 497,256.52 497,251 L497,131 C497,125.48 501.48,121 507,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,121 L891,121 C896.52,121 901,125.48 901,131 L901,251 C901,256.52 896.52,261 891,261 L711,261 C705.48,261 701,256.52 701,251 L701,131 C701,125.48 705.48,121 711,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,121 L1095,121 C1100.52,121 1105,125.48 1105,131 L1105,251 C1105,256.52 1100.52,261 1095,261 L915,261 C909.48,261 905,256.52 905,251 L905,131 C905,125.48 909.48,121 915,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,121 L1299,121 C1304.52,121 1309,125.48 1309,131 L1309,251 C1309,256.52 1304.52,261 1299,261 L1119,261 C1113.48,261 1109,256.52 1109,251 L1109,131 C1109,125.48 1113.48,121 1119,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,121 L1503,121 C1508.52,121 1513,125.48 1513,131 L1513,251 C1513,256.52 1508.52,261 1503,261 L1323,261 C1317.48,261 1313,256.52 1313,251 L1313,131 C1313,125.48 1317.48,121 1323,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,121 L1707,121 C1712.52,121 1717,125.48 1717,131 L1717,251 C1717,256.52 1712.52,261 1707,261 L1527,261 C1521.48,261 1517,256.52 1517,251 L1517,131 C1517,125.48 1521.48,121 1527,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,322 L279,322 C284.52,322 289,326.48 289,332 L289,452 C289,457.52 284.52,462 279,462 L99,462 C93.48,462 89,457.52 89,452 L89,332 C89,326.48 93.48,322 99,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,322 L483,322 C488.52,322 493,326.48 493,332 L493,452 C493,457.52 488.52,462 483,462 L303,462 C297.48,462 293,457.52 293,452 L293,332 C293,326.48 297.48,322 303,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,322 L687,322 C692.52,322 697,326.48 697,332 L697,452 C697,457.52 692.52,462 687,462 L507,462 C501.48,462 497,457.52 497,452 L497,332 C497,326.48 501.48,322 507,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,322 L891,322 C896.52,322 901,326.48 901,332 L901,452 C901,457.52 896.52,462 891,462 L711,462 C705.48,462 701,457.52 701,452 L701,332 C701,326.48 705.48,322 711,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,322 L1095,322 C1100.52,322 1105,326.48 1105,332 L1105,452 C1105,457.52 1100.52,462 1095,462 L915,462 C909.48,462 905,457.52 905,452 L905,332 C905,326.48 909.48,322 915,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,322 L1299,322 C1304.52,322 1309,326.48 1309,332 L1309,452 C1309,457.52 1304.52,462 1299,462 L1119,462 C1113.48,462 1109,457.52 1109,452 L1109,332 C1109,326.48 1113.48,322 1119,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,322 L1503,322 C1508.52,322 1513,326.48 1513,332 L1513,452 C1513,457.52 1508.52,462 1503,462 L1323,462 C1317.48,462 1313,457.52 1313,452 L1313,332 C1313,326.48 1317.48,322 1323,322 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,322 L1707,322 C1712.52,322 1717,326.48 1717,332 L1717,452 C1717,457.52 1712.52,462 1707,462 L1527,462 C1521.48,462 1517,457.52 1517,452 L1517,332 C1517,326.48 1521.48,322 1527,322 "/>
+</g>
+
+<g fill="#e08131" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,523 L75,523 C80.52,523 85,527.48 85,533 L85,813 C85,818.52 80.52,823 75,823 L21,823 C15.48,823 11,818.52 11,813 L11,533 C11,527.48 15.48,523 21,523 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,525 L279,525 C284.52,525 289,529.48 289,535 L289,655 C289,660.52 284.52,665 279,665 L99,665 C93.48,665 89,660.52 89,655 L89,535 C89,529.48 93.48,525 99,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,525 L483,525 C488.52,525 493,529.48 493,535 L493,655 C493,660.52 488.52,665 483,665 L303,665 C297.48,665 293,660.52 293,655 L293,535 C293,529.48 297.48,525 303,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,525 L687,525 C692.52,525 697,529.48 697,535 L697,655 C697,660.52 692.52,665 687,665 L507,665 C501.48,665 497,660.52 497,655 L497,535 C497,529.48 501.48,525 507,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,525 L891,525 C896.52,525 901,529.48 901,535 L901,655 C901,660.52 896.52,665 891,665 L711,665 C705.48,665 701,660.52 701,655 L701,535 C701,529.48 705.48,525 711,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,525 L1095,525 C1100.52,525 1105,529.48 1105,535 L1105,655 C1105,660.52 1100.52,665 1095,665 L915,665 C909.48,665 905,660.52 905,655 L905,535 C905,529.48 909.48,525 915,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,525 L1299,525 C1304.52,525 1309,529.48 1309,535 L1309,655 C1309,660.52 1304.52,665 1299,665 L1119,665 C1113.48,665 1109,660.52 1109,655 L1109,535 C1109,529.48 1113.48,525 1119,525 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,676 L483,676 C488.52,676 493,680.48 493,686 L493,806 C493,811.52 488.52,816 483,816 L303,816 C297.48,816 293,811.52 293,806 L293,686 C293,680.48 297.48,676 303,676 "/>
+</g>
+
+<g fill="#972475" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,892 L75,892 C80.52,892 85,896.48 85,902 L85,1182 C85,1187.52 80.52,1192 75,1192 L21,1192 C15.48,1192 11,1187.52 11,1182 L11,902 C11,896.48 15.48,892 21,892 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,829 L483,829 C488.52,829 493,833.48 493,839 L493,959 C493,964.52 488.52,969 483,969 L303,969 C297.48,969 293,964.52 293,959 L293,839 C293,833.48 297.48,829 303,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,829 L687,829 C692.52,829 697,833.48 697,839 L697,959 C697,964.52 692.52,969 687,969 L507,969 C501.48,969 497,964.52 497,959 L497,839 C497,833.48 501.48,829 507,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,829 L891,829 C896.52,829 901,833.48 901,839 L901,959 C901,964.52 896.52,969 891,969 L711,969 C705.48,969 701,964.52 701,959 L701,839 C701,833.48 705.48,829 711,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,829 L1095,829 C1100.52,829 1105,833.48 1105,839 L1105,959 C1105,964.52 1100.52,969 1095,969 L915,969 C909.48,969 905,964.52 905,959 L905,839 C905,833.48 909.48,829 915,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,829 L1299,829 C1304.52,829 1309,833.48 1309,839 L1309,959 C1309,964.52 1304.52,969 1299,969 L1119,969 C1113.48,969 1109,964.52 1109,959 L1109,839 C1109,833.48 1113.48,829 1119,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,829 L1503,829 C1508.52,829 1513,833.48 1513,839 L1513,959 C1513,964.52 1508.52,969 1503,969 L1323,969 C1317.48,969 1313,964.52 1313,959 L1313,839 C1313,833.48 1317.48,829 1323,829 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,973 L1503,973 C1508.52,973 1513,977.48 1513,983 L1513,1103 C1513,1108.52 1508.52,1113 1503,1113 L1323,1113 C1317.48,1113 1313,1108.52 1313,1103 L1313,983 C1313,977.48 1317.48,973 1323,973 "/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="763" y="25" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >CARRERA DE PREGRADO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 7</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 8</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="133" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Específica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Individual </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="232" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Individual </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="436" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Valoracion de las</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Cualidades Físicas </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="647" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="199" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >deporte colectivo II - 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Actividad Física en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Poblaciones Especiales </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1088" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Neurociencia y Coaching</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >en el Deporte - 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Práctica en Deportes</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Competitivos </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1420" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Proyecto e Innovación en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1588" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 16 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Colectivo </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="231" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Liderazgo Pedagógico</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportivo - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Entrenamiento en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Colectivo I - 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="382" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportes Acuáticos </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="854" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deporte Adaptado - 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportes Emergentes y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >en contacto con la</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="382" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Naturaleza </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1201" y="382" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Metodologia de la</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >investigacion </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1420" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="346" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Práctica Electiva - 10</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="364" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="537" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Básica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Lesiones y 1° Auxilios en</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >la Práctica Deportiva - 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="585" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Bases del Entrenamiento</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Deportivo </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="376" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Fisiologia del Ejercicio -</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Psicologia del Deporte </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="875" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >-</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Bioética - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="549" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Nutrición, Actividad</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Física y Deporte </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1240" y="567" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="700" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Anatomía Funcional y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="718" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Biomecánica </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="399" y="718" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >- 6 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="906" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electiva</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo I - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificacion 1 - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo II - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificación 2 - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo III - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="853" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electivo IV - 4 SCT</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="997" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Certificacion 3 - 4 SCT</text>
+</g>
+</g>
+</svg>

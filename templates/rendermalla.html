@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Malla curricular</h2>
+    <div class="container">
+        <a href={{ url_for('generarPDFMalla', filename=filename) }} class="btn btn-primary">Generar PDF</a>
+        <a href="{{ url_for('editarTablaAsignaturas', filename=filename) }}" class="btn btn-secondary">Editar Asignaturas</a>
+        <a href={{ url_for('index') }} class="btn btn-secondary">Cancelar</a>
+    </div>
+    {{ html | safe }}
+{% endblock %}

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="750.711mm" height="1197.33mm"
+ viewBox="0 0 2128 3394"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L2128,0 L2128,3394 L0,3394 L0,0"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L2128,0 L2128,3394 L0,3394 L0,0"/>
+</g>
+
+<g fill="#616671" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,35 L279,35 C284.52,35 289,39.48 289,45 L289,105 C289,110.52 284.52,115 279,115 L99,115 C93.48,115 89,110.52 89,105 L89,45 C89,39.48 93.48,35 99,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,35 L483,35 C488.52,35 493,39.48 493,45 L493,105 C493,110.52 488.52,115 483,115 L303,115 C297.48,115 293,110.52 293,105 L293,45 C293,39.48 297.48,35 303,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,35 L687,35 C692.52,35 697,39.48 697,45 L697,105 C697,110.52 692.52,115 687,115 L507,115 C501.48,115 497,110.52 497,105 L497,45 C497,39.48 501.48,35 507,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,35 L891,35 C896.52,35 901,39.48 901,45 L901,105 C901,110.52 896.52,115 891,115 L711,115 C705.48,115 701,110.52 701,105 L701,45 C701,39.48 705.48,35 711,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,35 L1095,35 C1100.52,35 1105,39.48 1105,45 L1105,105 C1105,110.52 1100.52,115 1095,115 L915,115 C909.48,115 905,110.52 905,105 L905,45 C905,39.48 909.48,35 915,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,35 L1299,35 C1304.52,35 1309,39.48 1309,45 L1309,105 C1309,110.52 1304.52,115 1299,115 L1119,115 C1113.48,115 1109,110.52 1109,105 L1109,45 C1109,39.48 1113.48,35 1119,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,35 L1503,35 C1508.52,35 1513,39.48 1513,45 L1513,105 C1513,110.52 1508.52,115 1503,115 L1323,115 C1317.48,115 1313,110.52 1313,105 L1313,45 C1313,39.48 1317.48,35 1323,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,35 L1707,35 C1712.52,35 1717,39.48 1717,45 L1717,105 C1717,110.52 1712.52,115 1707,115 L1527,115 C1521.48,115 1517,110.52 1517,105 L1517,45 C1517,39.48 1521.48,35 1527,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,35 L1911,35 C1916.52,35 1921,39.48 1921,45 L1921,105 C1921,110.52 1916.52,115 1911,115 L1731,115 C1725.48,115 1721,110.52 1721,105 L1721,45 C1721,39.48 1725.48,35 1731,35 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,35 L2115,35 C2120.52,35 2125,39.48 2125,45 L2125,105 C2125,110.52 2120.52,115 2115,115 L1935,115 C1929.48,115 1925,110.52 1925,105 L1925,45 C1925,39.48 1929.48,35 1935,35 "/>
+</g>
+
+<g fill="#5dbcb3" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,178 L75,178 C80.52,178 85,182.48 85,188 L85,768 C85,773.52 80.52,778 75,778 L21,778 C15.48,778 11,773.52 11,768 L11,188 C11,182.48 15.48,178 21,178 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,121 L279,121 C284.52,121 289,125.48 289,131 L289,251 C289,256.52 284.52,261 279,261 L99,261 C93.48,261 89,256.52 89,251 L89,131 C89,125.48 93.48,121 99,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,121 L483,121 C488.52,121 493,125.48 493,131 L493,251 C493,256.52 488.52,261 483,261 L303,261 C297.48,261 293,256.52 293,251 L293,131 C293,125.48 297.48,121 303,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,121 L687,121 C692.52,121 697,125.48 697,131 L697,251 C697,256.52 692.52,261 687,261 L507,261 C501.48,261 497,256.52 497,251 L497,131 C497,125.48 501.48,121 507,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,121 L891,121 C896.52,121 901,125.48 901,131 L901,251 C901,256.52 896.52,261 891,261 L711,261 C705.48,261 701,256.52 701,251 L701,131 C701,125.48 705.48,121 711,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,121 L1095,121 C1100.52,121 1105,125.48 1105,131 L1105,251 C1105,256.52 1100.52,261 1095,261 L915,261 C909.48,261 905,256.52 905,251 L905,131 C905,125.48 909.48,121 915,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,121 L1299,121 C1304.52,121 1309,125.48 1309,131 L1309,251 C1309,256.52 1304.52,261 1299,261 L1119,261 C1113.48,261 1109,256.52 1109,251 L1109,131 C1109,125.48 1113.48,121 1119,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,121 L1503,121 C1508.52,121 1513,125.48 1513,131 L1513,251 C1513,256.52 1508.52,261 1503,261 L1323,261 C1317.48,261 1313,256.52 1313,251 L1313,131 C1313,125.48 1317.48,121 1323,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,121 L1707,121 C1712.52,121 1717,125.48 1717,131 L1717,251 C1717,256.52 1712.52,261 1707,261 L1527,261 C1521.48,261 1517,256.52 1517,251 L1517,131 C1517,125.48 1521.48,121 1527,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,121 L1911,121 C1916.52,121 1921,125.48 1921,131 L1921,251 C1921,256.52 1916.52,261 1911,261 L1731,261 C1725.48,261 1721,256.52 1721,251 L1721,131 C1721,125.48 1725.48,121 1731,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1935,121 L2115,121 C2120.52,121 2125,125.48 2125,131 L2125,251 C2125,256.52 2120.52,261 2115,261 L1935,261 C1929.48,261 1925,256.52 1925,251 L1925,131 C1925,125.48 1929.48,121 1935,121 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,265 L279,265 C284.52,265 289,269.48 289,275 L289,395 C289,400.52 284.52,405 279,405 L99,405 C93.48,405 89,400.52 89,395 L89,275 C89,269.48 93.48,265 99,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,265 L687,265 C692.52,265 697,269.48 697,275 L697,395 C697,400.52 692.52,405 687,405 L507,405 C501.48,405 497,400.52 497,395 L497,275 C497,269.48 501.48,265 507,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,265 L891,265 C896.52,265 901,269.48 901,275 L901,395 C901,400.52 896.52,405 891,405 L711,405 C705.48,405 701,400.52 701,395 L701,275 C701,269.48 705.48,265 711,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,265 L1095,265 C1100.52,265 1105,269.48 1105,275 L1105,395 C1105,400.52 1100.52,405 1095,405 L915,405 C909.48,405 905,400.52 905,395 L905,275 C905,269.48 909.48,265 915,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,265 L1299,265 C1304.52,265 1309,269.48 1309,275 L1309,395 C1309,400.52 1304.52,405 1299,405 L1119,405 C1113.48,405 1109,400.52 1109,395 L1109,275 C1109,269.48 1113.48,265 1119,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,265 L1503,265 C1508.52,265 1513,269.48 1513,275 L1513,395 C1513,400.52 1508.52,405 1503,405 L1323,405 C1317.48,405 1313,400.52 1313,395 L1313,275 C1313,269.48 1317.48,265 1323,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,265 L1707,265 C1712.52,265 1717,269.48 1717,275 L1717,395 C1717,400.52 1712.52,405 1707,405 L1527,405 C1521.48,405 1517,400.52 1517,395 L1517,275 C1517,269.48 1521.48,265 1527,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,265 L1911,265 C1916.52,265 1921,269.48 1921,275 L1921,395 C1921,400.52 1916.52,405 1911,405 L1731,405 C1725.48,405 1721,400.52 1721,395 L1721,275 C1721,269.48 1725.48,265 1731,265 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,409 L891,409 C896.52,409 901,413.48 901,419 L901,539 C901,544.52 896.52,549 891,549 L711,549 C705.48,549 701,544.52 701,539 L701,419 C701,413.48 705.48,409 711,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,409 L1095,409 C1100.52,409 1105,413.48 1105,419 L1105,539 C1105,544.52 1100.52,549 1095,549 L915,549 C909.48,549 905,544.52 905,539 L905,419 C905,413.48 909.48,409 915,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,409 L1299,409 C1304.52,409 1309,413.48 1309,419 L1309,539 C1309,544.52 1304.52,549 1299,549 L1119,549 C1113.48,549 1109,544.52 1109,539 L1109,419 C1109,413.48 1113.48,409 1119,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,409 L1503,409 C1508.52,409 1513,413.48 1513,419 L1513,539 C1513,544.52 1508.52,549 1503,549 L1323,549 C1317.48,549 1313,544.52 1313,539 L1313,419 C1313,413.48 1317.48,409 1323,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,409 L1707,409 C1712.52,409 1717,413.48 1717,419 L1717,539 C1717,544.52 1712.52,549 1707,549 L1527,549 C1521.48,549 1517,544.52 1517,539 L1517,419 C1517,413.48 1521.48,409 1527,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,409 L1911,409 C1916.52,409 1921,413.48 1921,419 L1921,539 C1921,544.52 1916.52,549 1911,549 L1731,549 C1725.48,549 1721,544.52 1721,539 L1721,419 C1721,413.48 1725.48,409 1731,409 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,553 L891,553 C896.52,553 901,557.48 901,563 L901,683 C901,688.52 896.52,693 891,693 L711,693 C705.48,693 701,688.52 701,683 L701,563 C701,557.48 705.48,553 711,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,553 L1095,553 C1100.52,553 1105,557.48 1105,563 L1105,683 C1105,688.52 1100.52,693 1095,693 L915,693 C909.48,693 905,688.52 905,683 L905,563 C905,557.48 909.48,553 915,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,553 L1299,553 C1304.52,553 1309,557.48 1309,563 L1309,683 C1309,688.52 1304.52,693 1299,693 L1119,693 C1113.48,693 1109,688.52 1109,683 L1109,563 C1109,557.48 1113.48,553 1119,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,553 L1503,553 C1508.52,553 1513,557.48 1513,563 L1513,683 C1513,688.52 1508.52,693 1503,693 L1323,693 C1317.48,693 1313,688.52 1313,683 L1313,563 C1313,557.48 1317.48,553 1323,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,553 L1707,553 C1712.52,553 1717,557.48 1717,563 L1717,683 C1717,688.52 1712.52,693 1707,693 L1527,693 C1521.48,693 1517,688.52 1517,683 L1517,563 C1517,557.48 1521.48,553 1527,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,553 L1911,553 C1916.52,553 1921,557.48 1921,563 L1921,683 C1921,688.52 1916.52,693 1911,693 L1731,693 C1725.48,693 1721,688.52 1721,683 L1721,563 C1721,557.48 1725.48,553 1731,553 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,697 L1299,697 C1304.52,697 1309,701.48 1309,707 L1309,827 C1309,832.52 1304.52,837 1299,837 L1119,837 C1113.48,837 1109,832.52 1109,827 L1109,707 C1109,701.48 1113.48,697 1119,697 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,697 L1707,697 C1712.52,697 1717,701.48 1717,707 L1717,827 C1717,832.52 1712.52,837 1707,837 L1527,837 C1521.48,837 1517,832.52 1517,827 L1517,707 C1517,701.48 1521.48,697 1527,697 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,697 L1911,697 C1916.52,697 1921,701.48 1921,707 L1921,827 C1921,832.52 1916.52,837 1911,837 L1731,837 C1725.48,837 1721,832.52 1721,827 L1721,707 C1721,701.48 1725.48,697 1731,697 "/>
+</g>
+
+<g fill="#e08131" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,1260 L75,1260 C80.52,1260 85,1264.48 85,1270 L85,1850 C85,1855.52 80.52,1860 75,1860 L21,1860 C15.48,1860 11,1855.52 11,1850 L11,1270 C11,1264.48 15.48,1260 21,1260 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,843 L279,843 C284.52,843 289,847.48 289,853 L289,973 C289,978.52 284.52,983 279,983 L99,983 C93.48,983 89,978.52 89,973 L89,853 C89,847.48 93.48,843 99,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,843 L483,843 C488.52,843 493,847.48 493,853 L493,973 C493,978.52 488.52,983 483,983 L303,983 C297.48,983 293,978.52 293,973 L293,853 C293,847.48 297.48,843 303,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,843 L687,843 C692.52,843 697,847.48 697,853 L697,973 C697,978.52 692.52,983 687,983 L507,983 C501.48,983 497,978.52 497,973 L497,853 C497,847.48 501.48,843 507,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,843 L891,843 C896.52,843 901,847.48 901,853 L901,973 C901,978.52 896.52,983 891,983 L711,983 C705.48,983 701,978.52 701,973 L701,853 C701,847.48 705.48,843 711,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,843 L1095,843 C1100.52,843 1105,847.48 1105,853 L1105,973 C1105,978.52 1100.52,983 1095,983 L915,983 C909.48,983 905,978.52 905,973 L905,853 C905,847.48 909.48,843 915,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,843 L1503,843 C1508.52,843 1513,847.48 1513,853 L1513,973 C1513,978.52 1508.52,983 1503,983 L1323,983 C1317.48,983 1313,978.52 1313,973 L1313,853 C1313,847.48 1317.48,843 1323,843 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,987 L279,987 C284.52,987 289,991.48 289,997 L289,1117 C289,1122.52 284.52,1127 279,1127 L99,1127 C93.48,1127 89,1122.52 89,1117 L89,997 C89,991.48 93.48,987 99,987 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,987 L483,987 C488.52,987 493,991.48 493,997 L493,1117 C493,1122.52 488.52,1127 483,1127 L303,1127 C297.48,1127 293,1122.52 293,1117 L293,997 C293,991.48 297.48,987 303,987 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,987 L687,987 C692.52,987 697,991.48 697,997 L697,1117 C697,1122.52 692.52,1127 687,1127 L507,1127 C501.48,1127 497,1122.52 497,1117 L497,997 C497,991.48 501.48,987 507,987 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M99,1131 L279,1131 C284.52,1131 289,1135.48 289,1141 L289,1261 C289,1266.52 284.52,1271 279,1271 L99,1271 C93.48,1271 89,1266.52 89,1261 L89,1141 C89,1135.48 93.48,1131 99,1131 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1131 L483,1131 C488.52,1131 493,1135.48 493,1141 L493,1261 C493,1266.52 488.52,1271 483,1271 L303,1271 C297.48,1271 293,1266.52 293,1261 L293,1141 C293,1135.48 297.48,1131 303,1131 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,1131 L687,1131 C692.52,1131 697,1135.48 697,1141 L697,1261 C697,1266.52 692.52,1271 687,1271 L507,1271 C501.48,1271 497,1266.52 497,1261 L497,1141 C497,1135.48 501.48,1131 507,1131 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1275 L483,1275 C488.52,1275 493,1279.48 493,1285 L493,1405 C493,1410.52 488.52,1415 483,1415 L303,1415 C297.48,1415 293,1410.52 293,1405 L293,1285 C293,1279.48 297.48,1275 303,1275 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M303,1419 L483,1419 C488.52,1419 493,1423.48 493,1429 L493,1549 C493,1554.52 488.52,1559 483,1559 L303,1559 C297.48,1559 293,1554.52 293,1549 L293,1429 C293,1423.48 297.48,1419 303,1419 "/>
+</g>
+
+<g fill="#972475" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Helvetica" font-size="12" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M21,2283 L75,2283 C80.52,2283 85,2287.48 85,2293 L85,3373 C85,3378.52 80.52,3383 75,3383 L21,3383 C15.48,3383 11,3378.52 11,3373 L11,2293 C11,2287.48 15.48,2283 21,2283 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M507,2285 L687,2285 C692.52,2285 697,2289.48 697,2295 L697,2415 C697,2420.52 692.52,2425 687,2425 L507,2425 C501.48,2425 497,2420.52 497,2415 L497,2295 C497,2289.48 501.48,2285 507,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M711,2285 L891,2285 C896.52,2285 901,2289.48 901,2295 L901,2415 C901,2420.52 896.52,2425 891,2425 L711,2425 C705.48,2425 701,2420.52 701,2415 L701,2295 C701,2289.48 705.48,2285 711,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M915,2285 L1095,2285 C1100.52,2285 1105,2289.48 1105,2295 L1105,2415 C1105,2420.52 1100.52,2425 1095,2425 L915,2425 C909.48,2425 905,2420.52 905,2415 L905,2295 C905,2289.48 909.48,2285 915,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,2285 L1299,2285 C1304.52,2285 1309,2289.48 1309,2295 L1309,2415 C1309,2420.52 1304.52,2425 1299,2425 L1119,2425 C1113.48,2425 1109,2420.52 1109,2415 L1109,2295 C1109,2289.48 1113.48,2285 1119,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,2285 L1503,2285 C1508.52,2285 1513,2289.48 1513,2295 L1513,2415 C1513,2420.52 1508.52,2425 1503,2425 L1323,2425 C1317.48,2425 1313,2420.52 1313,2415 L1313,2295 C1313,2289.48 1317.48,2285 1323,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,2285 L1707,2285 C1712.52,2285 1717,2289.48 1717,2295 L1717,2415 C1717,2420.52 1712.52,2425 1707,2425 L1527,2425 C1521.48,2425 1517,2420.52 1517,2415 L1517,2295 C1517,2289.48 1521.48,2285 1527,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,2285 L1911,2285 C1916.52,2285 1921,2289.48 1921,2295 L1921,2415 C1921,2420.52 1916.52,2425 1911,2425 L1731,2425 C1725.48,2425 1721,2420.52 1721,2415 L1721,2295 C1721,2289.48 1725.48,2285 1731,2285 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,2429 L1299,2429 C1304.52,2429 1309,2433.48 1309,2439 L1309,2559 C1309,2564.52 1304.52,2569 1299,2569 L1119,2569 C1113.48,2569 1109,2564.52 1109,2559 L1109,2439 C1109,2433.48 1113.48,2429 1119,2429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1323,2429 L1503,2429 C1508.52,2429 1513,2433.48 1513,2439 L1513,2559 C1513,2564.52 1508.52,2569 1503,2569 L1323,2569 C1317.48,2569 1313,2564.52 1313,2559 L1313,2439 C1313,2433.48 1317.48,2429 1323,2429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,2429 L1707,2429 C1712.52,2429 1717,2433.48 1717,2439 L1717,2559 C1717,2564.52 1712.52,2569 1707,2569 L1527,2569 C1521.48,2569 1517,2564.52 1517,2559 L1517,2439 C1517,2433.48 1521.48,2429 1527,2429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,2429 L1911,2429 C1916.52,2429 1921,2433.48 1921,2439 L1921,2559 C1921,2564.52 1916.52,2569 1911,2569 L1731,2569 C1725.48,2569 1721,2564.52 1721,2559 L1721,2439 C1721,2433.48 1725.48,2429 1731,2429 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,2573 L1299,2573 C1304.52,2573 1309,2577.48 1309,2583 L1309,2703 C1309,2708.52 1304.52,2713 1299,2713 L1119,2713 C1113.48,2713 1109,2708.52 1109,2703 L1109,2583 C1109,2577.48 1113.48,2573 1119,2573 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1527,2573 L1707,2573 C1712.52,2573 1717,2577.48 1717,2583 L1717,2703 C1717,2708.52 1712.52,2713 1707,2713 L1527,2713 C1521.48,2713 1517,2708.52 1517,2703 L1517,2583 C1517,2577.48 1521.48,2573 1527,2573 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,2573 L1911,2573 C1916.52,2573 1921,2577.48 1921,2583 L1921,2703 C1921,2708.52 1916.52,2713 1911,2713 L1731,2713 C1725.48,2713 1721,2708.52 1721,2703 L1721,2583 C1721,2577.48 1725.48,2573 1731,2573 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,2717 L1299,2717 C1304.52,2717 1309,2721.48 1309,2727 L1309,2847 C1309,2852.52 1304.52,2857 1299,2857 L1119,2857 C1113.48,2857 1109,2852.52 1109,2847 L1109,2727 C1109,2721.48 1113.48,2717 1119,2717 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,2717 L1911,2717 C1916.52,2717 1921,2721.48 1921,2727 L1921,2847 C1921,2852.52 1916.52,2857 1911,2857 L1731,2857 C1725.48,2857 1721,2852.52 1721,2847 L1721,2727 C1721,2721.48 1725.48,2717 1731,2717 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1119,3052 L1299,3052 C1304.52,3052 1309,3056.48 1309,3062 L1309,3182 C1309,3187.52 1304.52,3192 1299,3192 L1119,3192 C1113.48,3192 1109,3187.52 1109,3182 L1109,3062 C1109,3056.48 1113.48,3052 1119,3052 "/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M1731,3052 L1911,3052 C1916.52,3052 1921,3056.48 1921,3062 L1921,3182 C1921,3187.52 1916.52,3192 1911,3192 L1731,3192 C1725.48,3192 1721,3187.52 1721,3182 L1721,3062 C1721,3056.48 1725.48,3052 1731,3052 "/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="967" y="25" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >CARRERA DE PREGRADO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 6</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 7</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 8</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 9</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="59" font-family="Arial" font-size="16" font-weight="700" font-style="normal" 
+ >Nivel 10</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="192" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Específica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SILVOAG.</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CLIMATOLOGÍA E</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HIDROLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTRODUCCIÓN A LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ECONOMÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GENÉTICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GIRA TÉCNICA SIST</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROD ZONA NORTE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MANEJO Y ANA. DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DATOS P´ TOMA DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DECIS.</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SISTEMAS DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INFORMACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="181" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GEOGRÁFICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >VITICULTURA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GESTIÓN SOSTENIBLE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="163" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE AGROEMPRESAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1935" y="145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROYECTO DE TÍTULO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BOTÁNICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EDAFOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ECONOMÍA APLICADA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGUA Y RIEGO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GIRA TÉCNICA SIST</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROD ZONA SUR</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >OPTATIVO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROFUNDIZACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="325" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DISCIPLINAR 1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FRUTICULTURA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ESPECÍFICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="289" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRÁCTICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="307" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROFESIONAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 3</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRONOMIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 4</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRONOMIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="469" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HORTOFR.</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ADMINISTRACIÓN DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SISTEMAS AGRÍCOLAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >OPT. DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROFUNDIZACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="469" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DISCIPLINAR 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="433" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >POSTCOSECHA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="451" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HORTOFRUTÍCOLA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FERTILIDAD Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="595" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >NUTRICIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ENTOMOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="595" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CULTIVOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FISIOLOGÍA ANIMAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="595" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ADMINISTRACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="613" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FINANCIERA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="577" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRICULTURA DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="595" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRECISIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="721" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="739" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRONOMIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="721" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ALIMENTACIÓN Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="739" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >NUTRICIÓN ANIMAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="721" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EVALUACIÓN DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="739" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PROYECTOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="757" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGROPECUARIOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="1274" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Básica</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="227" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="885" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >QUÍMICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="885" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BIOQUÍMICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MICROBIOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ECOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CALIDAD E INOCUIDAD</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="885" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE ALIMENTOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="867" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SEMINARIO TÓPICOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="885" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EN AGRICULTURA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="1011" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ÁLGEBRA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1011" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >TALLER DE SISTEMAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1029" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRÍCOLAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1011" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO 2</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1029" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRONOMIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="1155" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >BIOLOGÍA CELULAR Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="99" y="1173" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MOLECULAR</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1155" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CÁLCULO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="1155" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ESTADÍSTICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1299" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ELECTIVO </text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="387" y="1299" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >1</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1317" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGRONOMIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="303" y="1443" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FÍSICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="11" y="2297" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >Electiva</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="507" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FISIOLOGÍA VEGETAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FISIOLOGÍA DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="711" y="2327" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="915" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FITOPATOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FUNDAMENTOS DE LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2327" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN ANIMAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >COMUNICACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="2327" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CIENTÍFICA I</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >COMUNICACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2327" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CIENTÍFICA II</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2309" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >VINIFICACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EFICIENCIA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2471" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ENERGÉTICA EN LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2489" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >EDIFICACIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="2453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GESTIÓN INTEGRAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="2471" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >DE RESIDUOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1323" y="2489" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SÓLIDOS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >METODOLOGÍA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2471" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ÉTICA EN CIENCIAS</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2453" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >AGROECOLOGÍA Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2471" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRODUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2489" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ORGÁNICA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2597" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CONSTRUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2615" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >SUSTENTABLE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2597" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CAMBIO CLIMÁTICO</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1527" y="2615" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >GLOBAL</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2597" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >HORTICULTURA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2741" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >INTRODUCCIÓN A LA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="2759" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >CONSTRUCCIÓN</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="2741" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >ENOLOGÍA</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1119" y="3076" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MACHINE LEARNING</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="3076" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >FORRAJERAS Y</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="3094" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >MANEJO DE</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1731" y="3112" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >PRADERAS</text>
+</g>
+</g>
+</svg>

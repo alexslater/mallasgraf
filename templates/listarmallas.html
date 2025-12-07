@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Mallas curriculares ingresadas</h2>
+    <div class="container-lg tabla-scrolleable" id="listado-asignaturas">
+        <table class="table" data-toggle="table" id="tabla-asignaturas">
+          <thead id="tabla-asignaturas-header">
+            <th scope="col">ID malla curricular</th>
+            <th scope="col">Nombre carrera</th>
+            <th scope="col">Timestamp</th> 
+            <th scope="col">Acción</th>
+          </thead>
+
+          <tbody id="tabla-asignaturas-body">
+            {% for m in lista_mallas %}
+            <tr>
+                <td>{{ m["idmalla"] }}</td>
+                <td>{{ m["nombre_carrera"]}}</td>
+                <td>{{ m["fecha_creacion"] }}</td>
+                <td>
+                  <div>
+                    <a href={{ url_for('renderizamalla', filename=m['idmalla'], nombre_carrera=m['nombre_carrera']) }} class="btn btn-primary">Ver</a>
+                    <a href={{ url_for('eliminarmalla', idmalla=m['idmalla']) }} class="btn btn-danger">Eliminar</a>
+                  </div>
+                </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div> 
+{% endblock %}

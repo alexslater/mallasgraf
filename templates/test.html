@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Test</h2>
+<table class="table" data-toggle="table" id="tabla-asignaturas">
+    <thead id="tabla-asignaturas-header">
+        <th scope="col">ID</th>
+        <th scope="col">Numero Sem</th>
+    </thead>
+    <tbody id="tabla-asignaturas-body">
+        {% for key in datosmallas %}
+        <tr>
+            <td>{{ key }}</td>
+            <td>{{ datosmallas[key]['numero_semestres'] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

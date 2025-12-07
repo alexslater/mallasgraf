@@ -1,0 +1,204 @@
+.titulo-semestre {
+    background-color: rgb(97,102,113);
+}
+
+td, th {
+    padding: 10px;
+    margin: 10px;
+}
+
+.titulo-vertical-celda {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 20px;
+}
+
+.margenes-barra {
+    padding: 5px;
+    margin: 5px;
+}
+
+.card-tamano {
+    width: 180px;
+    height: 100px;
+    
+}
+
+.semestre-tamano {
+    width: 120px;
+    height: 60px;
+}
+
+.area-es {
+    background-color: rgb(93, 188, 179);
+    border-color: rgb(93, 188, 179);
+    border-radius: 10px;
+}
+    
+
+.area-ba {
+    background-color: rgb(224, 129,49);
+    border-color: rgb(224, 129,49);
+    border-radius: 10px;
+
+}
+
+.area-el {
+    background-color: rgb(151, 36,117);
+    border-color: rgb(151, 36,117);
+    border-radius: 10px;
+
+}
+
+.sem-celda {
+    padding: 10px;
+    border-radius: 10px;
+    width: 180px;
+    height: 60px;
+}  
+
+
+.data-celda {
+    padding: 10px;
+    border-radius: 10px;
+    width: 180px;
+    height: 120px;
+}
+
+.tabla-scrolleable {
+    display:inline-block;
+    overflow-x:auto;
+}
+
+
+/* OTROS ESTILOS PARA MALLA */
+
+
+.titulo-semestre {
+    background-color: rgb(97,102,113);
+	font-weight: bold;
+}
+
+td, th {
+    padding: 10px;
+    margin: 10px;
+}
+
+.margenes-barra {
+    padding: 5px;
+    margin: 5px;
+}
+
+.card-tamano {
+    width: 200px;
+    height: 150px;
+    
+}
+
+.semestre-tamano {
+    width: 200px;
+    height: 60px;
+	font-weight: bold;
+}
+
+.area-es {
+    background-color: rgb(93, 188, 179);
+    border-color: rgb(93, 188, 179);
+    border-radius: 10px;
+}
+
+.area-es-leyenda {
+    background-color: rgb(93, 188, 179);
+    border-color: rgb(93, 188, 179);
+    border-radius: 10px;
+
+}
+
+
+.area-ba {
+    background-color: rgb(224, 129,49);
+    border-color: rgb(224, 129,49);
+    border-radius: 10px;
+
+}
+
+.area-ba-leyenda {
+    background-color: rgb(224, 129,49);
+    border-color: rgb(224, 129,49);
+    border-radius: 10px;
+    border: none;
+    height: auto;
+}
+
+.area-el {
+    background-color: rgb(151, 36,117);
+    border-color: rgb(151, 36,117);
+    border-radius: 10px;
+
+}
+
+.area-el-leyenda {
+    background-color: rgb(151, 36,117);
+    border-color: rgb(151, 36,117);
+    border-radius: 10px;
+    border: none;
+    height: auto;
+}
+
+
+.sem-celda {
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 60px;
+	font-weight: bold;
+}  
+
+.data-nombre-asignatura {
+    width: 200px;
+    height: 85px;
+    padding: 0px;
+    margin: 0px;
+    font-size: smaller;
+}
+
+.data-sct {
+    width: 150px;
+    height: 25px;
+    padding: 0px;
+    margin: 0px;
+    font-size: smaller;
+    justify-content: right;
+}
+
+.data-prerequisito {
+    width: 150px;
+    height: 25px;
+    padding: 0px;
+    margin: 0px;
+    font-size: smaller;
+    justify-content: left;
+}
+
+.data-celda {
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px;
+}
+
+.tabla-scrolleable {
+    display:inline-block;
+    overflow-x:auto;
+}
+
+.rotated-text {
+    -webkit-transform: rotate(-90deg); 
+    -moz-transform: rotate(-90deg);    
+    width:100px;
+}

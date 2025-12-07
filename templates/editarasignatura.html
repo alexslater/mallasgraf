@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-4">
+    <h2>Editar Asignatura</h2>
+    <form method="POST" enctype="multipart/form-data">
+        {{ template_form.hidden_tag() }}
+
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.codigo_asignatura.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.codigo_asignatura(class="form-control") }}
+                {% for error in template_form.codigo_asignatura.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.nombre_asignatura.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.nombre_asignatura(class="form-control") }}
+                {% for error in template_form.nombre_asignatura.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.nivel.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.nivel(class="form-control") }}
+                {% for error in template_form.nivel.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.area.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.area(class="form-control") }}
+                {% for error in template_form.area.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.sct.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.sct(class="form-control") }}
+                {% for error in template_form.sct.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="offset-sm-2 col-sm-10">
+                {{ template_form.submit(class="btn btn-primary") }}
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock %}
