@@ -1,3 +1,5 @@
+from TiposAreas import TiposAreas
+
 class Asignatura():
 
     def __init__(self):
@@ -44,20 +46,19 @@ class Asignatura():
         self.__area = area
     
     def getArea(self):
-        if self.__area == "Básica":
-            return "ba"
-        elif self.__area == "Disciplinar":
-            return "es"
-        elif self.__area == "Electiva":
-            return "el"
-        else:
-            return "un"
+        return self.__area
+    
+    def getNombreArea(self):
+        return self.__area
     
     def setTipo(self, tipo):
         self.__tipo = tipo
 
     def getTipo(self):
         return self.__tipo
+    
+    def setTipo(self, tipo):
+        self.__tipo = tipo
     
     def setId(self, id):
         self.__id = id

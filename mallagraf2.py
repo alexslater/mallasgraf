@@ -174,10 +174,10 @@ def renderizamalla(filename, nombre_carrera):
             for j in range(1, numero_semestres + 1):
                 idasig = f'{area_classes[idx].split("-")[1]}-{i}-{j}'
                 html += f'''<td class="card-tamano" id="{area_classes[idx].split("-")[1]}-{i}-{j}">
-                    <div class="data-celda fs-6 text-white area-{pe.getArea(idasig)}">
+                    <div class="data-celda fs-6 text-white area-{pe.getTipo(idasig)}">
                         <table>
                             <tr>
-                                <td class="data-prerequisito">{pe.getN(idasig)}</td>
+                                <td class="data-prerequisito">{pe.getN  (idasig)}</td>
                             </tr>
                             <tr>
                                 <td class="data-nombre-asignatura">{pe.getAsignatura(idasig)}</td>
@@ -254,7 +254,7 @@ def editarTablaAsignaturas(filename):
         flash("No se encontró la malla con el ID proporcionado.")
         return redirect(url_for('listarmallas'))    
     datos_malla = json.loads(row[2])
-    return render_template("tablamallas.html", listaasignaturas=datos_malla['data'], filename=filename, nombre_carrera=datos_malla['carrera'])
+    return render_template("tablamallas.html", listaasignaturas=datos_malla['data'], filename=filename, nombre_carrera="TEST")
 
 ######################################################################
 #                                                                    #
@@ -270,26 +270,25 @@ def editarAsignatura(filename, codigo_asignatura):
     conn = sqlite3.connect("mallas.db")
     cursor = conn.cursor()
     result = cursor.execute("SELECT * FROM mallas WHERE idmalla = ?", (filename,))
-    
     row = result.fetchone()
     if row is None:
         flash("No se encontró la malla con el ID proporcionado.")
         return redirect(url_for('listarmallas'))    
     datos_malla = json.loads(row[2])
 
+    #Creamos objeto plan de estudios
+    pe = PlanEstudios(datos_malla)
+
     #Buscar la asignatura en los datos de la malla
-    for asignatura in datos_malla['data']:
-        print(f"DEBUG> Revisando asignatura {asignatura['ID Asignatura']} {asignatura}")
-        if asignatura['ID Asignatura'] == int(codigo_asignatura):
-            asignatura_encontrada = asignatura
-            break
+    codigo_ubicacion = pe.getCodigoUbicacion(codigo_asignatura)
     
     #datos de la malla
-    codigo_asignatura = asignatura_encontrada['ID Asignatura']
-    nombre_asignatura = asignatura_encontrada['Asignatura']
-    nivel = asignatura_encontrada['Nivel']
-    area = asignatura_encontrada['Area']
-    sct = asignatura_encontrada['SCT']
+
+    nombre_asignatura = pe.getAsignatura(codigo_ubicacion)
+    nivel = pe.getN(codigo_ubicacion)
+    area = pe.getNombreArea(codigo_ubicacion)
+    sct = pe.getSCT(codigo_ubicacion)
+    
 
     editar_form = EditarForm(
         data={
@@ -311,11 +310,19 @@ def editarAsignatura(filename, codigo_asignatura):
         sct = editar_form.sct.data
 
         # Procesar los datos (por ejemplo, actualizar en la BD)
-        actualizar_asignatura(codigo, nombre, nivel, area, sct)
+        # Aca mismo hay que actualizar....
+        pe.updateAsignatura(codigo, asignatura=nombre, nivel=nivel, area=area, sct=sct)
+        try:
+            cursor.execute("UPDATE mallas SET jsonpayload = ? WHERE idmalla = ?", (json.dumps(pe.getPEJSON()), filename))
+            conn.commit()
+        except sqlite3.Error as e:
+            print(f"DEBUG> Error al actualizar la asignatura: {e}")
+            flash("Error al actualizar la asignatura", "error")
+            return
 
         # Confirmación y redirección
-        flash("Asignatura actualizada exitosamente.", "success")
-        return redirect(url_for("editarTablaAsignaturas", filename=filename))  # o donde desees redirigir
+        #flash("Asignatura actualizada exitosamente.", "success")
+        return redirect(url_for("renderizamalla", filename=filename, nombre_carrera="editado"))  # o donde desees redirigir
     
     return render_template("editarasignatura.html", template_form=editar_form, codigo_asignatura=codigo_asignatura, nombre_asignatura=nombre_asignatura, nivel=nivel, area=area, sct=sct)
 

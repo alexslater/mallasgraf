@@ -4,6 +4,8 @@ import json
 from flask import send_file
 from datetime import date
 from Asignatura import Asignatura
+
+
 # Esta clase almacena datos de un plan de estudios JSON
 
 class PlanEstudios():
@@ -19,7 +21,7 @@ class PlanEstudios():
         self.asignaturas = {}
 
         #Llamar a construir indice.
-        self.construirIndice()
+        #self.construirIndice()
         self.crearAsignaturas(datos_json)
 
     def getPEJSON(self):
@@ -38,7 +40,7 @@ class PlanEstudios():
         d['max_total_asignaturas_por_area'] = self.max_total_asignaturas_por_area
         d['data'] = []
 
-        for it in self.asignaturas.items():
+        for idx, it in self.asignaturas.items():
             a = {}
             a["ID Asignatura"] = it.getIdAsignatura()
             a["Nivel"] = it.getNivel()
@@ -131,7 +133,7 @@ class PlanEstudios():
     
     def getN(self, codigo_ubicacion):
         try:
-            return self.asignaturas[codigo_ubicacion].getNivel()
+            return self.asignaturas[codigo_ubicacion].getId()
         except:
             return ''
 
@@ -140,6 +142,56 @@ class PlanEstudios():
             return self.asignaturas[codigo_ubicacion].getArea()
         except:
             return ''
+    
+    def getTipo(self, codigo_ubicacion):
+        try:
+            return self.asignaturas[codigo_ubicacion].getTipo()
+        except:
+            return ''
+
+    def getNombreArea(self, codigo_ubicacion):
+        try:
+            print(f"DEBUG getNombreArea: {self.asignaturas[codigo_ubicacion].getNombreArea()}")
+            return self.asignaturas[codigo_ubicacion].getNombreArea()
+        except:
+            return ''
+
+    def getCodigoUbicacion(self, idasignatura):
+        for idx, it in self.asignaturas.items():
+            #print(it)
+            #print(f"DEBUG getCodigoUbiacion> ASIG Id Asignatura = {it.getIdAsignatura()} | PARAM Id ASig = {idasignatura} ")
+            if int(idasignatura) == it.getIdAsignatura():
+                #print(f"DEBUG getCodigoUbicacion> {it.getIdAsignatura()} {it.getId()}")
+                return it.getId()
+        
+    def updateAsignatura(self, codigo, asignatura, nivel, sct, area):
+        """
+        Docstring for updateAsignatura
+        
+        :param self: Description
+
+        Este metodo realiza una actualización del objeto asignatura de la lista...
+
+        """
+        for idx, it in self.asignaturas.items():
+            if int(codigo) == it.getIdAsignatura():
+                self.asignaturas[it.getId()].setAsignatura(asignatura)
+                self.asignaturas[it.getId()].setNivel(nivel)
+                self.asignaturas[it.getId()].setSCT(sct)
+                self.asignaturas[it.getId()].setArea(area)
+                tipo = ""
+                if area == "Básica":
+                    tipo = "ba"
+                elif area == "Disciplinar":
+                    tipo = "es"
+                elif area == "Electiva":
+                    tipo = "el"
+                idasignatura = f"{tipo}-{codigo}-{nivel}"
+                self.asignaturas[it.getId()].setTipo(tipo)
+                self.asignaturas[it.getId()].setId(idasignatura)
+                
+
+
 
     def getNoAsignaturasporArea(self, area):
         print(f"DEBUG getNoAsignaturas> Solicita AREA = {area}")
