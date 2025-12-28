@@ -177,7 +177,7 @@ def renderizamalla(filename, nombre_carrera):
                     <div class="data-celda fs-6 text-white area-{pe.getTipo(idasig)}">
                         <table>
                             <tr>
-                                <td class="data-prerequisito">{pe.getN  (idasig)}</td>
+                                <td class="data-prerequisito">{pe.getN(idasig)}</td>
                             </tr>
                             <tr>
                                 <td class="data-nombre-asignatura">{pe.getAsignatura(idasig)}</td>
@@ -273,7 +273,8 @@ def editarAsignatura(filename, codigo_asignatura):
     row = result.fetchone()
     if row is None:
         flash("No se encontró la malla con el ID proporcionado.")
-        return redirect(url_for('listarmallas'))    
+        return redirect(url_for('listarmallas'))   
+     
     datos_malla = json.loads(row[2])
 
     #Creamos objeto plan de estudios
@@ -285,7 +286,7 @@ def editarAsignatura(filename, codigo_asignatura):
     #datos de la malla
 
     nombre_asignatura = pe.getAsignatura(codigo_ubicacion)
-    nivel = pe.getN(codigo_ubicacion)
+    nivel = pe.getNivel(codigo_ubicacion)
     area = pe.getNombreArea(codigo_ubicacion)
     sct = pe.getSCT(codigo_ubicacion)
     
@@ -296,7 +297,8 @@ def editarAsignatura(filename, codigo_asignatura):
         'nombre_asignatura': nombre_asignatura,
         'nivel': nivel,
         'area': area,
-        'sct': sct 
+        'sct': sct,
+        'codigo_ubicacion': codigo_ubicacion
         }
     )
 
@@ -308,10 +310,12 @@ def editarAsignatura(filename, codigo_asignatura):
         nivel = editar_form.nivel.data
         area = editar_form.area.data
         sct = editar_form.sct.data
+        codigo_ubicacion = editar_form.codigo_ubicacion.data
 
         # Procesar los datos (por ejemplo, actualizar en la BD)
         # Aca mismo hay que actualizar....
         pe.updateAsignatura(codigo, asignatura=nombre, nivel=nivel, area=area, sct=sct)
+        print(f"DEBUG editarAsignatura> {area}")
         try:
             cursor.execute("UPDATE mallas SET jsonpayload = ? WHERE idmalla = ?", (json.dumps(pe.getPEJSON()), filename))
             conn.commit()
@@ -324,7 +328,9 @@ def editarAsignatura(filename, codigo_asignatura):
         #flash("Asignatura actualizada exitosamente.", "success")
         return redirect(url_for("renderizamalla", filename=filename, nombre_carrera="editado"))  # o donde desees redirigir
     
-    return render_template("editarasignatura.html", template_form=editar_form, codigo_asignatura=codigo_asignatura, nombre_asignatura=nombre_asignatura, nivel=nivel, area=area, sct=sct)
+    return render_template("editarasignatura.html", template_form=editar_form, 
+                           codigo_asignatura=codigo_asignatura, nombre_asignatura=nombre_asignatura, 
+                           nivel=nivel, area=area, sct=sct, codigo_ubicacion=codigo_ubicacion)
 
 
 

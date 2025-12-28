@@ -56,6 +56,16 @@
         </div>
 
         <div class="row mb-3">
+            <label class="col-sm-2 col-form-label">{{ template_form.codigo_ubicacion.label.text }}</label>
+            <div class="col-sm-10">
+                {{ template_form.codigo_ubicacion(class="form-control") }}
+                {% for error in template_form.codigo_ubicacion.errors %}
+                    <div class="text-danger">{{ error }}</div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="row mb-3">
             <div class="offset-sm-2 col-sm-10">
                 {{ template_form.submit(class="btn btn-primary") }}
             </div>

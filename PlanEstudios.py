@@ -47,7 +47,7 @@ class PlanEstudios():
             a["Asignatura"] = it.getAsignatura()
             a["SCT"] = it.getSCT()
             a["Prerrequisitos"] = it.getPrerrequisitos()
-            a["Area"] = it.getNivel()
+            a["Area"] = it.getArea()
             a["Tipo"] = it.getTipo()
             a["id"] = it.getId()
             d['data'].append(a)
@@ -136,6 +136,12 @@ class PlanEstudios():
             return self.asignaturas[codigo_ubicacion].getId()
         except:
             return ''
+    
+    def getNivel(self, codigo_ubicacion):
+        try:
+            return self.asignaturas[codigo_ubicacion].getNivel()
+        except:
+            return ''
 
     def getArea(self, codigo_ubicacion):
         try:
@@ -151,8 +157,8 @@ class PlanEstudios():
 
     def getNombreArea(self, codigo_ubicacion):
         try:
-            print(f"DEBUG getNombreArea: {self.asignaturas[codigo_ubicacion].getNombreArea()}")
-            return self.asignaturas[codigo_ubicacion].getNombreArea()
+            print(f"DEBUG getNombreArea: {self.asignaturas[codigo_ubicacion].getArea()}")
+            return self.asignaturas[codigo_ubicacion].getArea()
         except:
             return ''
 
@@ -179,6 +185,7 @@ class PlanEstudios():
                 self.asignaturas[it.getId()].setNivel(nivel)
                 self.asignaturas[it.getId()].setSCT(sct)
                 self.asignaturas[it.getId()].setArea(area)
+                print(f"DEBUG updateAsignatura> Pedida de AREA = {area}")
                 tipo = ""
                 if area == "Básica":
                     tipo = "ba"

@@ -22,6 +22,7 @@ class EditarForm(FlaskForm):
     nivel = StringField("Nivel: ", validators=[DataRequired()])
     area = StringField("Área: ", validators=[DataRequired()])
     sct = StringField("SCT: ", validators=[DataRequired()])
+    codigo_ubicacion = StringField("Codigo ubcación: ", validators=[DataRequired()])
     #archivo_xlsx = FileField("Archivo XLSX", validators=[DataRequired()])
     submit = SubmitField("Guardar")
 
